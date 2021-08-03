@@ -1,0 +1,4 @@
+
+module "CONSTANTS" {
+  source = "../CONSTANTS"
+}
